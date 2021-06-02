@@ -4,7 +4,7 @@ This repo contains a real time American sign language alphabet translator develo
 +++++ Features +++++
 
 ASL sign language alphabet with images.
-Translate ASL alphabet by images.
+<ul>Translate ASL alphabet by images.</ul>
 Translate ASL alphabet real-time.
 Text- to-Speech function for translated text.
 Help option.
